@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "author_name": "Amit Sharma",
+    "profile_photo": "https://randomuser.me/api/portraits/men/10.jpg",
+    "rating": 5,
+    "review_text": "Amazing service! Highly recommend this place.",
+    "date": "2025-08-25",
+    "category": "Positive"
+  },
+  {
+    "id": 2,
+    "author_name": "Priya Singh",
+    "profile_photo": "https://randomuser.me/api/portraits/women/15.jpg",
+    "rating": 4,
+    "review_text": "Good experience overall, staff was very helpful.",
+    "date": "2025-08-20",
+    "category": "Positive"
+  },
+  {
+    "id": 3,
+    "author_name": "Sunil Verma",
+    "profile_photo": "https://randomuser.me/api/portraits/men/30.jpg",
+    "rating": 3,
+    "review_text": "It was okay, could be improved in terms of waiting time.",
+    "date": "2025-08-18",
+    "category": "Neutral"
+  },
+  {
+    "id": 4,
+    "author_name": "Rekha Das",
+    "profile_photo": "https://randomuser.me/api/portraits/women/40.jpg",
+    "rating": 1,
+    "review_text": "Bad experience. The staff was rude and slow service.",
+    "date": "2025-08-10",
+    "category": "Negative"
+  }
+]
